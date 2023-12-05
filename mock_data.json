@@ -1,0 +1,42 @@
+{
+    "account_no" : [
+        {"id":1, "account_no": 295329526864, "account_type":"Current Account"},
+        {"id":2, "account_no": 423262655868, "account_type":"Saving Account"},
+        {"id":3, "account_no": 555626265821, "account_type":"Business Account"}
+    ],
+
+    "benificary": [
+        {
+          "id": 101,
+          "name": "Ahmed Ali",
+          "bank_name": "UBL",
+          "account_no": "1234567890"
+        },
+        {
+          "id": 201,
+          "name": "Fatima Khan",
+          "bank_name": "HBL",
+          "account_no": "9876543210"
+        },
+        {
+          "id": 301,
+          "name": "Mohammad Khan",
+          "bank_name": "MCB",
+          "account_no": "5678901234"
+        }
+      ],
+    "purpose_of_transfer":[
+        {"id":1, "purpose":"Loan"},
+        {"id":2, "purpose":"Education"},
+        {"id":3, "purpose":"Invsetment"},
+        {"id":4, "purpose":"Medical"},
+        {"id":5, "purpose":"Other"}
+    ],
+    "transaction_data":[
+      {"id":1, "account_name":"Abdul Wahab", "Fee": 0.00, "amount":1000},
+      {"id":2, "account_name":"Ahmad", "Fee": 0.00, "amount":1300},
+      {"id":3, "account_name":"Haider Khan", "Fee": 0.00, "amount":510},
+      {"id":4, "account_name":"M Arsalan", "Fee": 0.00, "amount":758}
+  ]
+
+}
