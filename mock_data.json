@@ -1,8 +1,7 @@
 {
     "account_no" : [
         {"id":1, "account_no": 295329526864, "account_type":"Current Account"},
-        {"id":2, "account_no": 423262655868, "account_type":"Saving Account"},
-        {"id":3, "account_no": 555626265821, "account_type":"Business Account"}
+        {"id":2, "account_no": 423262655868, "account_type":"Wallet Account"}
     ],
 
     "benificary": [

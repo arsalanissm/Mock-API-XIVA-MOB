@@ -24,7 +24,7 @@ mock_data = load_mock_data()
 
 @app.get("/")
 async def welcome():
-    return {"message": "Hello, how can i help you today"}
+    return {"message": "Haider"}
 
 
 # http://0.0.0.0:8000/comunicate/?text_msg=please%20transfer%20money%20to%20wahab
